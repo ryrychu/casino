@@ -14,7 +14,7 @@ const ChooseSide = () => {
           <div className='w-full bg-gradient-to-b from-choiceGrad1 to-choiceGrad2 flex items-center justify-start gap-x-20 py-4 pl-8 rounded-3xl chooseSides hover:to-choiceGrad3'>
             <div className='relative h-40 w-44 chooseSide overflow-hidden'>
               <img src={agentReg} className='absolute inset-0 w-full h-full object-cover'/>
-              <div class="gradient-overlay rounded-[10px] absolute inset-0 bg-gradient-to-b from-[#00000000] to-[#000000B2] hover:transition duration-500 ease=in-out"></div>
+              <div className="gradient-overlay rounded-[10px] absolute inset-0 bg-gradient-to-b from-[#00000000] to-[#000000B2] hover:transition duration-500 ease=in-out"></div>
             </div>
             <div className='flex flex-col justify-center items-center gap-y-6'>
               <h6 className='text-2xl font-headingFont text-white'>REGISTER AS AGENT</h6>
@@ -24,7 +24,7 @@ const ChooseSide = () => {
           <div className='w-full bg-gradient-to-b from-choiceGrad1 to-choiceGrad2 flex items-center justify-start gap-x-20 py-4 pl-8 rounded-3xl chooseSides hover:to-choiceGrad3'>
             <div className='relative h-40 w-44 chooseSide overflow-hidden'>
               <img src={playerReg} className='absolute inset-0 w-full h-full object-cover'/>
-              <div class="gradient-overlay rounded-[10px] absolute inset-0 bg-gradient-to-b from-[#00000000] to-[#000000B2] hover:transition duration-500 ease=in-out"></div>
+              <div className="gradient-overlay rounded-[10px] absolute inset-0 bg-gradient-to-b from-[#00000000] to-[#000000B2] hover:transition duration-500 ease=in-out"></div>
             </div>
             <div className='flex flex-col justify-center items-center gap-y-6'>
               <h6 className='text-2xl font-headingFont text-white'>REGISTER AS PLAYER</h6>

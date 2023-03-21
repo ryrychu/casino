@@ -1,21 +1,21 @@
 import Navbar from "./Navbar";
-import Button from "./Button";
 import ChooseSide from "./ChooseSide";
-import CTA from "./CTA";
-import Deposit from "./Deposit";
-import FAQ from "./FAQ";
+import PopularGames from "./PopularGames"
 import Footer from "./Footer";
 import Hero from "./Hero";
-import GamesOffer from "./GamesOffer";
+import HotGames from "./HotGames";
+import GameProviders from "./GameProviders";
+import VideoTutorial from "./VideoTutorial";
+import CTA from "./CTA";
 
 export{
     Navbar,
-    Button,
     ChooseSide,
-    CTA,
-    Deposit,
-    FAQ,
     Footer,
     Hero,
-    GamesOffer,
+    HotGames,
+    PopularGames,
+    GameProviders,
+    VideoTutorial,
+    CTA,
 };
