@@ -18,7 +18,7 @@ const App = () => (
     </div>
   </div>
   <div className={`bg-bgColor ${styles.paddingX} ${styles.flexStart}`}>
-    <div className={`${styles.boxWidth} flex flex-col gap-y-44`}>
+    <div className={`${styles.boxWidth} flex flex-col gap-y-4`}>
       <ChooseSide />
       <HotGames />
       <PopularGames/>

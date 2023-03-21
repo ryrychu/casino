@@ -8,6 +8,7 @@ import GameProviders from "./GameProviders";
 import VideoTutorial from "./VideoTutorial";
 import CTA from "./CTA";
 
+
 export{
     Navbar,
     ChooseSide,
@@ -18,4 +19,5 @@ export{
     GameProviders,
     VideoTutorial,
     CTA,
+  
 };

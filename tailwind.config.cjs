@@ -24,17 +24,21 @@ module.exports = {
     extend: {
       fontFamily: {
         subFont: ["Nunito", "sans-serif"],
-        headingFont: ["BigNoodleTitling"],
+        headingFont: ["BigNoodle"],
       },
       colors:{
         primary: "#181818",
         secondary: "#F3B843",
         tertiary: "#A06D00",
         textMain: "#F2F2F2",
-        heroCont: "#1F1F1F",
+        floatingCont: "#1F1F1F",
         choiceGrad1: "#040405",
         choiceGrad2: "#01120F",
         choiceGrad3: "#02221C",
+      },
+      backgroundImage:{
+        'basketIdle': "url('./src/assets/Web/basketball_idle.png')",
+        'basketHover': "url('./src/assets/Web/basketball_hovered.png')",
       },
     },
   },
