@@ -71,6 +71,7 @@ import gcashIcon from './icons/gcashIcon.png';
 import security1Icon from './icons/security1Icon.png';
 import security2Icon from './icons/security2Icon.png';
 import licenseIcon from './icons/licenseIcon.png';
+import BasketIdle from './basketball_idle.png';
 export {
     Banner1,
     Banner2,
@@ -144,4 +145,5 @@ export {
     security2Icon,
     mozillaIcon,
     chromeIcon,
+    BasketIdle,
 };

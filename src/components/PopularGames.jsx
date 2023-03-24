@@ -1,6 +1,6 @@
 import React from 'react'
 import { PopularCardSliders, PopularGamesCardSlider } from '../Sliders'
-import { PopularGamesSlots1, PopularGamesSlots2, PopularGamesSlots3, PopularGamesSlots4 } from '../assets/Web'
+import { PopularGamesSlots1, PopularGamesSlots2, PopularGamesSlots3, PopularGamesSlots4, BasketIdle} from '../assets/Web'
 
 const PopularGames = () => {
   return (
@@ -20,7 +20,9 @@ const PopularGames = () => {
       </div>
 
       <div className='flex flex-row w-full gap-x-8'>
-        <div className='w-2/4 h-[450px] bg-basketIdle bg-center bg-no-repeat bg-contain hover:bg-basketHover transition-all duration-300'> 
+        <div className='w-2/4 h-[450px] flex justify-center '> 
+          <img src={BasketIdle} className='hover:brightness-150 transition-all duration-300'>
+          </img>
         </div>
         <PopularGamesCardSlider/>
       </div>
