@@ -7,6 +7,8 @@ import HotGames from "./HotGames";
 import GameProviders from "./GameProviders";
 import VideoTutorial from "./VideoTutorial";
 import CTA from "./CTA";
+import FooterTopLinks from "./FooterTopLinks";
+import FooterBottomLinks from "./FooterBottomLinks";
 
 
 export{
@@ -19,5 +21,6 @@ export{
     GameProviders,
     VideoTutorial,
     CTA,
-  
+    FooterTopLinks,
+    FooterBottomLinks,
 };

@@ -25,9 +25,10 @@ const App = () => (
       <GameProviders/>
       <VideoTutorial/>
       <CTA/>
-      <Footer />
+      
     </div>
   </div>
+  <Footer />
 </div>
 );
 

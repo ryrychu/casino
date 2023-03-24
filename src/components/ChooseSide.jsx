@@ -11,7 +11,7 @@ const ChooseSide = () => {
         </div>
 
         <div className='h-56 w-full grid grid-cols-2 gap-x-6 py-1'>
-          <div className='w-full bg-gradient-to-b from-choiceGrad1 to-choiceGrad2 flex items-center justify-start gap-x-20 py-4 pl-8 rounded-3xl chooseSides hover:to-choiceGrad3'>
+          <div className='w-full bg-gradient-to-b from-choiceGrad1 to-choiceGrad2 flex items-center justify-evenly gap-x-10 py-4 pr-20  rounded-3xl chooseSides hover:to-choiceGrad3'>
             <div className='relative h-40 w-44 chooseSide overflow-hidden'>
               <img src={AgentIdle} className='absolute inset-0 w-full h-full object-cover'/>
               <div className="gradient-overlay rounded-[10px] absolute inset-0 bg-gradient-to-b from-[#00000000] to-[#000000B2] hover:transition duration-500 ease=in-out"></div>
@@ -21,7 +21,7 @@ const ChooseSide = () => {
               <button className='border-2 border-secondary/75 rounded-3xl px-10 py-2.5 text-textMain/75 text-sm font-subFont'>Register</button>
             </div>
           </div>
-          <div className='w-full bg-gradient-to-b from-choiceGrad1 to-choiceGrad2 flex items-center justify-start gap-x-20 py-4 pl-8 rounded-3xl chooseSides hover:to-choiceGrad3'>
+          <div className='w-full bg-gradient-to-b from-choiceGrad1 to-choiceGrad2 flex items-center justify-evenly gap-x-10 py-4 pr-20 rounded-3xl chooseSides hover:to-choiceGrad3'>
             <div className='relative h-40 w-44 chooseSide overflow-hidden'>
               <img src={PlayerIdle} className='absolute inset-0 w-full h-full object-cover'/>
               <div className="gradient-overlay rounded-[10px] absolute inset-0 bg-gradient-to-b from-[#00000000] to-[#000000B2] hover:transition duration-500 ease=in-out"></div>

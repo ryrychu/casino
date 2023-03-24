@@ -8,7 +8,7 @@
       @apply w-60 h-52 
     }
     .game-provider img{
-      @apply w-16 h-16 grayscale hover:grayscale-0 transition-all duration-200
+      @apply grayscale hover:grayscale-0 transition-all duration-300
     }
 }
 @font-face{
@@ -115,4 +115,17 @@
 }
 .chooseSides:hover .gradient-overlay {
   opacity: 0;
+}
+
+video{
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}
+
+.linear-vid{
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))
+}
+.controls button[data-state="pause"] {
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAA…");
 }

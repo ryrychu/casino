@@ -1,4 +1,4 @@
-import SpartansImg from './Spartans img.png';
+
 import Banner1 from './Banner/Banner Img (1).png';
 import Banner2 from './Banner/Banner Img (2).png';
 import Banner3 from './Banner/Banner Img (3).png';
@@ -47,7 +47,7 @@ import AgentIdle from './Player or Agent/Agent - idle.png';
 import AgentHovered from './Player or Agent/Agent - hovered.png';
 import PlayerIdle from './Player or Agent/Player - Idle.png';
 import PlayerHovered from './Player or Agent/PLayer - hovered.png';
-import PopularGamesHeaderCard1 from './Popular Games/Card1/Test-01.png';
+import PopularGamesHeaderCard1 from './Popular Games/Card1/test - banner.png';
 /* import PopularGamesHeaderCard2 from './Popular Games/Card1/Card-2.svg';
 import PopularGamesHeaderCard3 from './Popular Games/Card1/Card-3.svg';
 import PopularGamesHeaderCard4 from './Popular Games/Card1/Card-4.svg';
@@ -60,8 +60,18 @@ import PopularGamesSlots1 from './Popular Games/Slots/Slot -  (1).png';
 import PopularGamesSlots2 from './Popular Games/Slots/Slot -  (2).png';
 import PopularGamesSlots3 from './Popular Games/Slots/Slot -  (3).png';
 import PopularGamesSlots4 from './Popular Games/Slots/Slot -  (4).png'; 
+import spartvid from './spartvid.mp4';
+import play from './play.png';
+import spartansImg from './spartansImg.png';
+import facebookIcon from './icons/fe_facebook.png';
+import chromeIcon from './icons/chromeIcon.png';
+import mozillaIcon from './icons/mozillaIcon.png';
+import bankIcon from './icons/bankIcon.png';
+import gcashIcon from './icons/gcashIcon.png';
+import security1Icon from './icons/security1Icon.png';
+import security2Icon from './icons/security2Icon.png';
+import licenseIcon from './icons/licenseIcon.png';
 export {
-    SpartansImg,
     Banner1,
     Banner2,
     Banner3,
@@ -123,4 +133,15 @@ export {
     PopularGamesSlots2,
     PopularGamesSlots3,
     PopularGamesSlots4, 
+    spartvid,
+    play,
+    spartansImg,
+    facebookIcon,
+    licenseIcon,
+    bankIcon,
+    gcashIcon,
+    security1Icon,
+    security2Icon,
+    mozillaIcon,
+    chromeIcon,
 };
