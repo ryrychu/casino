@@ -2,7 +2,7 @@ import React from 'react';
 import { spartansImg} from '../assets/Web';
 const CTA = () => {
   return (
-    <section className={`flex flex-row py-4 gap-8 justify-between items-center`}>
+    <section className={`flex flex-row py-4 gap-8 px-52 justify-between items-center`}>
         <div className='flex flex-col gap-6 w-2/5'>
           <div className='font-headingFont uppercase leading-none'>
             <h1 className='text-5xl  text-textMain'>register and be a part of team spartans.</h1>
