@@ -4,7 +4,7 @@ import FooterBottomLinks from './FooterBottomLinks';
 
 const Footer = () => {
   return (
-    <section className='h-96 w-full bg-black px-52 pt-6 text-sm font-headingFont'>
+    <section className='h-96 w-full bg-black px-64 pt-6 text-sm font-headingFont'>
       <FooterTopLinks/>
       <FooterBottomLinks/>
       <div className='flex justify-center pt-10 h-full'>
