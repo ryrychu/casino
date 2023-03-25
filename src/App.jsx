@@ -23,9 +23,10 @@ const App = () => (
       <GameProviders/>
       <VideoTutorial/>
       <CTA/>
+      <MessengerChat />
     </div>
   </div>
-  <MessengerChat />
+  
   <Footer />
 </div>
 );
