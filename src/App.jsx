@@ -1,8 +1,6 @@
 import React from 'react'
 import styles from './style';
-
-
-import { Navbar, Hero, HotGames, Footer, PopularGames, ChooseSide, GameProviders, VideoTutorial, CTA} from "./components";
+import { Navbar, Hero, HotGames, Footer, PopularGames, ChooseSide, GameProviders, VideoTutorial, CTA, MessengerChat} from "./components";
 
 const App = () => (
   <div className='bg-primary w-full overflow-hidden'>
@@ -25,9 +23,9 @@ const App = () => (
       <GameProviders/>
       <VideoTutorial/>
       <CTA/>
-      
     </div>
   </div>
+  <MessengerChat />
   <Footer />
 </div>
 );

@@ -9,6 +9,7 @@ import VideoTutorial from "./VideoTutorial";
 import CTA from "./CTA";
 import FooterTopLinks from "./FooterTopLinks";
 import FooterBottomLinks from "./FooterBottomLinks";
+import MessengerChat from "./MessengerChat";
 
 
 export{
@@ -23,4 +24,6 @@ export{
     CTA,
     FooterTopLinks,
     FooterBottomLinks,
+    MessengerChat
+
 };

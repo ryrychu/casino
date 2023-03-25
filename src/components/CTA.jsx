@@ -12,7 +12,7 @@ const CTA = () => {
             <p>Mag register na sa Royal Circle Club casino at maging parte ng patuloy na lumalaki naming team.</p>
             <p>Sa team Spartans ay hindi masasayang ang effort mo sa binibigay naming incentives, kaya register na!</p>
           </div>
-          <button className='rounded-lg bg-gradient-to-b from-secondary to-tertiary py-3 px-9 w-48 font-subFont text-primary text-sm'>Register Now</button>
+          <button className='rounded-lg bg-gradient-to-b from-secondary to-tertiary py-3 px-9 w-48 font-subFont hover:from-[#f6d083] hover:to-[#FFAF05] text-primary text-sm'>Register Now</button>
         </div>
         <div className='h-[400px] flex items-center'>
           <img src={spartansImg}></img>

@@ -47,7 +47,7 @@ import AgentIdle from './Player or Agent/Agent - idle.png';
 import AgentHovered from './Player or Agent/Agent - hovered.png';
 import PlayerIdle from './Player or Agent/Player - Idle.png';
 import PlayerHovered from './Player or Agent/PLayer - hovered.png';
-import PopularGamesHeaderCard1 from './Popular Games/Card1/test - banner.png';
+import PopularGamesHeaderCard1 from './Popular Games/Card1/test - banner (1).png';
 /* import PopularGamesHeaderCard2 from './Popular Games/Card1/Card-2.svg';
 import PopularGamesHeaderCard3 from './Popular Games/Card1/Card-3.svg';
 import PopularGamesHeaderCard4 from './Popular Games/Card1/Card-4.svg';
@@ -72,6 +72,7 @@ import security1Icon from './icons/security1Icon.png';
 import security2Icon from './icons/security2Icon.png';
 import licenseIcon from './icons/licenseIcon.png';
 import BasketIdle from './basketball_idle.png';
+import testcard from './Popular Games/Card2/test - card-1.png'
 export {
     Banner1,
     Banner2,
@@ -146,4 +147,5 @@ export {
     mozillaIcon,
     chromeIcon,
     BasketIdle,
+    testcard,
 };

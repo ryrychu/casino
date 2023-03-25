@@ -118,59 +118,64 @@ export const footerLinks = [
 
 export const footerBotLinks = [
   {
-    title: "deposit methods",
+    key: 'deposit-methods',
+    title: 'deposit methods',
     links: [
       {
-        image: "gcashIcon",
-        link: "",
+        image: 'gcashIcon',
+        link: '',
       },
       {
-        image: "bankIcon",
-        link: "",
+        image: 'bankIcon',
+        link: '',
       },
     ],
   },
   {
-    title: "gaming license",
+    key: 'gaming-license',
+    title: 'gaming license',
     links: [
       {
-        image: "licenseIcon",
-        link: "",
+        image: 'licenseIcon',
+        link: '',
       },
     ],
   },
   {
-    title: "suggested browser",
+    key: 'suggested-browser',
+    title: 'suggested browser',
     links: [
       {
-        image: "mozillaIcon",
-        link: "",
+        image: 'mozillaIcon',
+        link: '',
       },
       {
-        image: "chromeIcon",
-        link: "",
+        image: 'chromeIcon',
+        link: '',
       },
     ],
   },
   {
-    title: "security",
+    key: 'security',
+    title: 'security',
     links: [
       {
-        image: "security1Icon",
-        link: "",
+        image: 'security1Icon',
+        link: '',
       },
       {
-        image: "security2Icon",
-        link: "",
+        image: 'security2Icon',
+        link: '',
       },
     ],
   },
   {
-    title: "follow us",
+    key: 'follow-us',
+    title: 'follow us',
     links: [
       {
-        image: "facebookIcon",
-        link: "",
+        image: 'facebookIcon',
+        link: '',
       },
     ],
   },
