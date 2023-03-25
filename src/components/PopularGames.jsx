@@ -26,6 +26,9 @@ const PopularGames = () => {
         </div>
         <PopularGamesCardSlider/>
       </div>
+      <div>
+        
+      </div>
     </section>
   )
 }
