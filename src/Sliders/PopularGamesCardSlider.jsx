@@ -3,7 +3,8 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import "swiper/css/effect-creative";
 import {Autoplay, EffectCreative} from 'swiper';
-import { PopularGamesSubCard1, PopularGamesSubCard2, PopularGamesSubCard3, testcard } from '../assets/Web';
+
+import { PopularGamesHeaderCard1 , PopularGamesHeaderCard2, PopularGamesHeaderCard3, PopularGamesHeaderCard4, PopularGamesHeaderCard5} from '../assets/Web';
 const PopularGamesCardSlider = () => {
   return (
     <div className='w-2/4 h-[450px]'>
@@ -27,16 +28,19 @@ const PopularGamesCardSlider = () => {
         className="popularGamesCard_swiper"
       >
         <SwiperSlide>
-          <img src={PopularGamesSubCard1}/>
+          <img src={PopularGamesHeaderCard1}/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={PopularGamesSubCard2}/>
+          <img src={PopularGamesHeaderCard2}/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={PopularGamesSubCard3}/>
+          <img src={PopularGamesHeaderCard3}/>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={testcard}/>
+          <img src={PopularGamesHeaderCard4}/>
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={PopularGamesHeaderCard5}/>
         </SwiperSlide>
         <div className="swiper-pagination"> </div>
       </Swiper>

@@ -5,9 +5,9 @@ import { footerLinks } from '../constants'
 
 const FooterTopLinks = () => {
   return (
-    <div className='flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10 border-b-2 pb-4 border-textMain/10'>
+    <div className='flex-[1.5] w-full hidden flex-row justify-between md:mt-0 mt-10 border-b-2 pb-4 border-textMain/10  lg:flex'>
     {footerLinks.map((footerLink, titleIndex) => (
-      <div key={footerLink.key} className={`flex flex-col ss:my-0 my-4 min-w-[150px] w-52 ${titleIndex === 0 ? 'border-none' : 'border-l-2 pl-4 border-textMain/10'}`}>
+      <div key={footerLink.key} className={`flex flex-col ss:my-0 my-4 min-w-[80px] w-52 ${titleIndex === 0 ? 'border-none' : 'border-l-2 pl-4 border-textMain/10'}`}>
         <h4 className='text-secondary cursor-default'>
           {footerLink.title}
         </h4>
@@ -46,7 +46,8 @@ const FooterTopLinks = () => {
         </ul>
       </div>
     ))}
-  </div>
+    </div>
+    
   )
 }
 

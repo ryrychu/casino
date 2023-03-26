@@ -34,23 +34,23 @@ export const footerLinks = [
     links: [      
       {        
         name: "Live casino",        
-        link: "",      
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
       },      
       {        
         name: "Slots games",        
-        link: "",      
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
       },      
       {        
         name: "Sports book",        
-        link: "",      
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
       },      
       {        
         name: "e-sports",       
-        link: "",      
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
       },      
       {        
         name: "Fishing",        
-        link: "",      
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
       },    
     ],
   },
@@ -60,19 +60,19 @@ export const footerLinks = [
     links: [
       {
         name: "how to register",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
       {
         name: "how to deposit",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
       {
         name: "how to Withdraw",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
       {
         name: "how to play",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
     ],
   },
@@ -82,15 +82,15 @@ export const footerLinks = [
     links: [
       {
         name: "about us",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
       {
         name: "cookie policy",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
       {
         name: "terms of use",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
     ],
   },
@@ -100,7 +100,7 @@ export const footerLinks = [
     links: [
       {
         name: "facebook",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
     ],
   },
@@ -110,7 +110,7 @@ export const footerLinks = [
     links: [
       {
         name: "GAMBLING CAN BE HARMFUL. PLEASE REFER TO OUR RESPONSIBLE GAMING PAGE FOR TIPS ON HELPING YOU STAY IN CONTROL.",
-        link: "",
+        link: "https://royalcircleclub.com/?referral=maJhannYt",
       },
     ],
   },
@@ -123,11 +123,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'gcashIcon',
-        link: '',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
       },
       {
         image: 'bankIcon',
-        link: '',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
       },
     ],
   },
@@ -137,7 +137,7 @@ export const footerBotLinks = [
     links: [
       {
         image: 'licenseIcon',
-        link: '',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
       },
     ],
   },
@@ -147,11 +147,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'mozillaIcon',
-        link: '',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
       },
       {
         image: 'chromeIcon',
-        link: '',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
       },
     ],
   },
@@ -161,11 +161,112 @@ export const footerBotLinks = [
     links: [
       {
         image: 'security1Icon',
-        link: '',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
       },
       {
         image: 'security2Icon',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+      },
+    ],
+  },
+  {
+    key: 'follow-us',
+    title: 'follow us',
+    links: [
+      {
+        image: 'facebookIcon',
         link: '',
+      },
+    ],
+  },
+];
+
+export const footerTabTopLinks = [  
+  {    
+    key: 'tab-links',    
+    title: "LINKS",    
+    links: [      
+      {        
+        name: "Live casino",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "Slots games",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "Sports book",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "e-sports",       
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "Fishing",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },   
+      {        
+        name: "download",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },   
+      {        
+        name: "message",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },    
+    ],
+  },
+];
+
+export const footerTabBotLinks = [  
+  {    
+    key: 'tab-links',    
+    title: "INFO CENTRE",    
+    links: [      
+      {        
+        name: "how to register",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "how to deposit",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "how to witdhraw",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "how to play",       
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },      
+      {        
+        name: "about us",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },   
+      {        
+        name: "cookie policy",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },   
+      {        
+        name: "terms of use",        
+        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+      },    
+    ],
+  },
+];
+
+export const footerTabBotImageLinks = [  
+  {    
+    key: 'tab-links',    
+    title: "DEPOSIT",    
+    links: [
+      {
+        image: 'gcashIcon',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+      },
+      {
+        image: 'bankIcon',
+        link: 'https://royalcircleclub.com/?referral=maJhannYt',
       },
     ],
   },

@@ -11,11 +11,11 @@ const HotGames = () => {
   return (
     <section id="hot_games" className='flex flex-col gap-0'>
       <div className='flex flex-col w-fit gap-0'>
-        <h2 className='font-headingFont text-textMain text-5xl leading-none'>HOT GAMES</h2>
-        <div className='w-16 border-2 border-secondary rounded-lg'></div>
+        <h2 className='font-headingFont text-textMain text-2xl lg:text-5xl leading-none'>HOT GAMES</h2>
+        <div className='hidden lg:block w-16 border-2 border-secondary rounded-lg'></div>
       </div>
       
-      <div className='w-full'>
+      <div className='w-full hidden xs:block'>
         <div className='flex flex-row justify-end pb-2 gap-x-2'> 
           <button className='w-6 h-6 bg-floatingCont rounded-lg text-textMain justify-center font-bold ' onClick={() => swiperRef.current.slidePrev()}>
             <FaChevronLeft className="m-auto"/>
@@ -35,19 +35,48 @@ const HotGames = () => {
           className="hotGames_swiper"
         >
           
-          <SwiperSlide><img src={HotGames1}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames2}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames3}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames4}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames5}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames6}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames7}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames8}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames9}/></SwiperSlide>
-          <SwiperSlide><img src={HotGames10}/></SwiperSlide> 
-          <SwiperSlide><img src={HotGames11}/></SwiperSlide> 
-          <SwiperSlide><img src={HotGames12}/></SwiperSlide> 
-          <SwiperSlide><img src={HotGames13}/></SwiperSlide> 
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames1}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames2}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames3}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames4}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames5}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames6}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames7}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames8}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames9}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames10}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames11}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames12}/></a></SwiperSlide> 
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames13}/></a></SwiperSlide> 
+        </Swiper>
+        
+      </div>
+
+      <div className='w-full block xs:hidden'>
+        <Swiper
+          onSwiper={(swiper) => {
+            swiperRef.current = swiper;
+          }}
+          slidesPerView={3}
+          loopedSlides={6}
+          spaceBetween={10}
+          modules={[Navigation, A11y]}
+          className="hotGames_swiper"
+        >
+          
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames1}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames2}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames3}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames4}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames5}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames6}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames7}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames8}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames9}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames10}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames11}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames12}/></a></SwiperSlide> 
+          <SwiperSlide><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={HotGames13}/></a></SwiperSlide> 
         </Swiper>
         
       </div>

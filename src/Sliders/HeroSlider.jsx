@@ -21,22 +21,22 @@ const HeroSlider = () => {
             clickable: true,
           }}
           modules={[Autoplay, Pagination]}
-          className="hero_swiper_container px-20"
+          className="hero_swiper_container px-0 xs:px-16 lg:px-20"
         >
           <SwiperSlide>
-            <img src={Banner1}/>
+            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner1}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={Banner2}/>
+            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner2}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={Banner3}/>
+            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner3}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={Banner4}/>
+            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner4}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={Banner5}/>
+            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner5}/></a>
           </SwiperSlide>
 
           <div className="swiper-pagination"> </div>

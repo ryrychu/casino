@@ -47,19 +47,18 @@ import AgentIdle from './Player or Agent/Agent - idle.png';
 import AgentHovered from './Player or Agent/Agent - hovered.png';
 import PlayerIdle from './Player or Agent/Player - Idle.png';
 import PlayerHovered from './Player or Agent/PLayer - hovered.png';
-import PopularGamesHeaderCard1 from './Popular Games/Card1/test - banner (1).png';
-/* import PopularGamesHeaderCard2 from './Popular Games/Card1/Card-2.svg';
-import PopularGamesHeaderCard3 from './Popular Games/Card1/Card-3.svg';
-import PopularGamesHeaderCard4 from './Popular Games/Card1/Card-4.svg';
-import PopularGamesHeaderCard5 from './Popular Games/Card1/Card-5.svg';
-import PopularGamesHeaderCard6 from './Popular Games/Card1/Card-6.svg'; */
+import PopularGamesHeaderCard1 from './Popular Games/Card1/Card2 Header -  (1).svg';
+import PopularGamesHeaderCard2 from './Popular Games/Card1/Card2 Header -  (2).svg';
+import PopularGamesHeaderCard3 from './Popular Games/Card1/Card2 Header -  (3).svg';
+import PopularGamesHeaderCard4 from './Popular Games/Card1/Card2 Header -  (4).svg';
+import PopularGamesHeaderCard5 from './Popular Games/Card1/Card2 Header -  (5).svg';
 import PopularGamesSubCard1 from './Popular Games/Card2/Card - (1).png';
 import PopularGamesSubCard2 from './Popular Games/Card2/Card - (2).png';
 import PopularGamesSubCard3 from './Popular Games/Card2/Card - (3).png';
-import PopularGamesSlots1 from './Popular Games/Slots/Slot -  (1).png';
-import PopularGamesSlots2 from './Popular Games/Slots/Slot -  (2).png';
-import PopularGamesSlots3 from './Popular Games/Slots/Slot -  (3).png';
-import PopularGamesSlots4 from './Popular Games/Slots/Slot -  (4).png'; 
+import PopularGamesSlots1 from './Popular Games/Slots/idle (1).png';
+import PopularGamesSlots2 from './Popular Games/Slots/idle (2).png';
+import PopularGamesSlots3 from './Popular Games/Slots/idle (3).png';
+import PopularGamesSlots4 from './Popular Games/Slots/idle (4).png'; 
 import spartvid from './spartvid.mp4';
 import play from './play.png';
 import spartansImg from './spartansImg.png';
@@ -72,7 +71,8 @@ import security1Icon from './icons/security1Icon.png';
 import security2Icon from './icons/security2Icon.png';
 import licenseIcon from './icons/licenseIcon.png';
 import BasketIdle from './basketball_idle.png';
-import testcard from './Popular Games/Card2/test - card-1.png'
+import testcard from './Popular Games/Card1/test - banner (2).png'
+import logoNavBar from './logo-navbarweb.png';
 export {
     Banner1,
     Banner2,
@@ -123,11 +123,10 @@ export {
     PlayerHovered,
     PlayerIdle,
     PopularGamesHeaderCard1,
-    /* PopularGamesHeaderCard2,
+    PopularGamesHeaderCard2,
     PopularGamesHeaderCard3,
     PopularGamesHeaderCard4,
     PopularGamesHeaderCard5,
-    PopularGamesHeaderCard6, */
     PopularGamesSubCard1,
     PopularGamesSubCard2,
     PopularGamesSubCard3,
@@ -148,4 +147,5 @@ export {
     chromeIcon,
     BasketIdle,
     testcard,
+    logoNavBar, 
 };

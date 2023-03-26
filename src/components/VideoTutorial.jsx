@@ -25,7 +25,7 @@ const VideoTutorial = () => {
     buttonRef.current.style.display = 'none';
   };
   return (
-    <section className={`${styles.flexCenter} flex-col pt-16 pb-4 gap-8  px-52`}>
+    <section className={`${styles.flexCenter} flex-col xs:pt-16 pb-4 gap-8 px-0 xs:px-20 lg:px-52`}>
       <div className='relative'>
         <button className='absolute z-10 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2' ref={buttonRef}>
           <img src={play} onClick={handlePlay}/>

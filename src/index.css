@@ -5,27 +5,61 @@
 
 @layer components{
     .slots-image img{
-      @apply w-60 h-52 
+      @apply w-60 h-52 hover:brightness-150 transition-all duration-300
     }
     .game-provider img{
-      @apply grayscale hover:grayscale-0 transition-all duration-300
+      @apply xs:grayscale hover:grayscale-0 transition-all duration-300
     }
+
+
+
+    .newCards img{
+      @apply w-full h-full
+    }
+
 }
+
 @font-face{
   font-family: "BigNoodle";
   src: url("./fonts/big_noodle_titling.ttf");
 }
+
+@media(max-width: 1200px){
+ .w-full .hero_swiper_container{
+  height: 400px;
+}
+.w-full .hero_swiper_container .swiper-slide {
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  border-radius: 20px;
+}
+}
+@media(max-width: 480px){
+ .w-full .hero_swiper_container{
+  height: 200px;
+}
+.w-full .hero_swiper_container .swiper-slide {
+  justify-content: center;
+  align-items: center;
+  height: 180px;
+}
+.hero_swiper_container .swiper-slide img {
+  width: 100%;
+  height: 100%;
+}
+.swiper-pagination-bullet{
+display: none;}
+}
+
 .hero_swiper_container{
   height: 500px;
 }
+
 .hero_swiper_container .swiper-slide {
-  text-align: center;
-  font-size: 18px;
-  display: flex;
   justify-content: center;
   align-items: center;
   height: 450px;
-  overflow: hidden;
   border-radius: 20px;
 }
 .hero_swiper_container .swiper-slide img {
@@ -55,7 +89,11 @@
   border-radius: 8px;
   transition: all 0.3s ease-in-out;
 }
-
+@media(max-width: 1200px){
+ .w-full .hotGames_swiper{
+  height: 120px;
+}
+}
 .hotGames_swiper{
   height: 240px;
 }
