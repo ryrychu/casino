@@ -33,8 +33,8 @@ const ChooseSide = () => {
           </div>
         </div>
         <div className='lg:hidden flex flex-row gap-4 justify-evenly'>
-          <div><img src={AgentTab}></img></div>
-          <div><img src={PlayerTab}></img></div>
+          <div><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={AgentTab}></img></a></div>
+          <div><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={PlayerTab}></img></a></div>
         </div>
     </section>
   )
