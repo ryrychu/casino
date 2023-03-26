@@ -100,7 +100,7 @@ export const footerLinks = [
     links: [
       {
         name: "facebook",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://www.facebook.com/people/Royal-Circle-Millionaires-Club/100089977303654/",
       },
     ],
   },
