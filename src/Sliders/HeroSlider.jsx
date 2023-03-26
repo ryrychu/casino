@@ -24,19 +24,19 @@ const HeroSlider = () => {
           className="hero_swiper_container px-0 xs:px-16 lg:px-20"
         >
           <SwiperSlide>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner1}/></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner1}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner2}/></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner2}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner3}/></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner3}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner4}/></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner4}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Banner5}/></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner5}/></a>
           </SwiperSlide>
 
           <div className="swiper-pagination"> </div>

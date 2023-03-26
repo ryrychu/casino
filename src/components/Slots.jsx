@@ -9,10 +9,10 @@ const Slots = () => {
             <div className='hidden lg:block w-16 border-2 border-secondary rounded-lg'></div>
           </div>
           <div className='grid grid-cols-2 grid-rows-2 place-items-stretch gap-4 newCards'>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Slots1}></img></a>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Slots2}></img></a>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Slots3}></img></a>
-            <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={Slots4}></img></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Slots1}></img></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Slots2}></img></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Slots3}></img></a>
+            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Slots4}></img></a>
           </div>
           
         </section>

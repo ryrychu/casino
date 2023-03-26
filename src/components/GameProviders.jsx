@@ -10,19 +10,19 @@ const GameProviders = () => {
         </div>
 
         <div className='w-full flex flex-row gap-x-1 xs:gap-x-6 px-0 py-1 justify-between game-provider'>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered1}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered2}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered3}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered4}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered5}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered6}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered7}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered8}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered9}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered10}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered11}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered12}/></a>
-          <a href='https://royalcircleclub.com/?referral=maJhannYt'><img src={GameProviderHovered13}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered1}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered2}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered3}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered4}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered5}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered6}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered7}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered8}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered9}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered10}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered11}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered12}/></a>
+          <a href='https://royalcc.vip/r/maJhannYt/reg'><img src={GameProviderHovered13}/></a>
 
         </div>
     </section>

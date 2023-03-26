@@ -28,13 +28,13 @@ const ChooseSide = () => {
             </div>
             <div className='flex flex-col justify-center items-center gap-y-6'>
               <h6 className='text-2xl font-headingFont text-white'>REGISTER AS  <span className='group-hover:text-secondary transition-colors duration-300'>PLAYER</span></h6>
-              <a href="https://royalcircleclub.com/?referral=maJhannYt"><button className='border-2 border-secondary/75 rounded-3xl px-10 py-2.5 text-textMain/75 text-sm font-subFont hover:border-secondary hover:text-textMain transition-all duration-300'>Register</button></a>
+              <a href="https://royalcc.vip/r/maJhannYt/reg"><button className='border-2 border-secondary/75 rounded-3xl px-10 py-2.5 text-textMain/75 text-sm font-subFont hover:border-secondary hover:text-textMain transition-all duration-300'>Register</button></a>
             </div>
           </div>
         </div>
         <div className='lg:hidden flex flex-row gap-4 justify-evenly'>
-          <div><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={AgentTab}></img></a></div>
-          <div><a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={PlayerTab}></img></a></div>
+          <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSfoNPiXvSbDnMkEcpyGc9K1Y9HFmaUJVLLI2tLBJSBCd0FIvw/viewform?fbclid=IwAR1AU1xuZH1lEWsNLzBTFJinxNbcgIDmx1IHyTmvG7r9DByVB9es5Nn7A3k"><img src={AgentTab}></img></a></div>
+          <div><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PlayerTab}></img></a></div>
         </div>
     </section>
   )

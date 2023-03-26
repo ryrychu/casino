@@ -18,7 +18,7 @@ const CTA = () => {
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoNPiXvSbDnMkEcpyGc9K1Y9HFmaUJVLLI2tLBJSBCd0FIvw/viewform?fbclid=IwAR1AU1xuZH1lEWsNLzBTFJinxNbcgIDmx1IHyTmvG7r9DByVB9es5Nn7A3k"><button className='rounded-lg bg-gradient-to-b from-secondary to-tertiary py-3 px-9 w-48 font-subFont hover:from-[#f6d083] hover:to-[#FFAF05] text-primary text-sm'>Register Now</button></a>
         </div>
         <div className='h-[400px] hidden lg:flex lg:items-center'>
-          <a href=''><img src={spartansImg}></img></a>
+          <a href='https://www.facebook.com/people/Royal-Circle-Millionaires-Club/100089977303654/'><img src={spartansImg}></img></a>
         </div>
     </section>
   )

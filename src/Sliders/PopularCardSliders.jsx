@@ -20,19 +20,19 @@ const PopularCardSliders = () => {
         className="popularGames_swiper"
       >
         <SwiperSlide>
-          <img src={PopularGamesHeaderCard1}/>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard1}/></a>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={PopularGamesHeaderCard2}/>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard2}/></a>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={PopularGamesHeaderCard3}/>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard3}/></a>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={PopularGamesHeaderCard4}/>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard4}/></a>
         </SwiperSlide>
         <SwiperSlide>
-          <img src={PopularGamesHeaderCard5}/>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard5}/></a>
         </SwiperSlide>
         
 

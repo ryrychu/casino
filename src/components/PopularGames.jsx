@@ -13,15 +13,15 @@ const PopularGames = () => {
       <PopularCardSliders/>
 
       <div className='w-full h-64 bg-floatingCont rounded-2xl flex flex-row slots-image justify-around px-20 items-center'>
-        <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={PopularGamesSlots1}/></a>
-        <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={PopularGamesSlots2}/></a>
-        <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={PopularGamesSlots3}/></a>
-        <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={PopularGamesSlots4}/></a>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesSlots1}/></a>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesSlots2}/></a>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesSlots3}/></a>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesSlots4}/></a>
       </div>
 
       <div className='flex flex-row w-full gap-x-8'>
         <div className='w-2/4 h-[450px] flex justify-center newCards'> 
-        <a href="https://royalcircleclub.com/?referral=maJhannYt"><img src={BasketIdle} className='hover:brightness-150 transition-all duration-300'>
+        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={BasketIdle} className='hover:brightness-150 transition-all duration-300'>
           </img></a>
         </div>
         <PopularGamesCardSlider/>

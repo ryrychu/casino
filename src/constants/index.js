@@ -34,23 +34,23 @@ export const footerLinks = [
     links: [      
       {        
         name: "Live casino",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "Slots games",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "Sports book",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "e-sports",       
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "Fishing",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },    
     ],
   },
@@ -60,19 +60,19 @@ export const footerLinks = [
     links: [
       {
         name: "how to register",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
       {
         name: "how to deposit",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
       {
         name: "how to Withdraw",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
       {
         name: "how to play",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
     ],
   },
@@ -82,15 +82,15 @@ export const footerLinks = [
     links: [
       {
         name: "about us",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
       {
         name: "cookie policy",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
       {
         name: "terms of use",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
     ],
   },
@@ -100,7 +100,7 @@ export const footerLinks = [
     links: [
       {
         name: "facebook",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
     ],
   },
@@ -110,7 +110,7 @@ export const footerLinks = [
     links: [
       {
         name: "GAMBLING CAN BE HARMFUL. PLEASE REFER TO OUR RESPONSIBLE GAMING PAGE FOR TIPS ON HELPING YOU STAY IN CONTROL.",
-        link: "https://royalcircleclub.com/?referral=maJhannYt",
+        link: "https://royalcc.vip/r/maJhannYt/reg",
       },
     ],
   },
@@ -123,11 +123,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'gcashIcon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
       {
         image: 'bankIcon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
     ],
   },
@@ -137,7 +137,7 @@ export const footerBotLinks = [
     links: [
       {
         image: 'licenseIcon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
     ],
   },
@@ -147,11 +147,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'mozillaIcon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
       {
         image: 'chromeIcon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
     ],
   },
@@ -161,11 +161,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'security1Icon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
       {
         image: 'security2Icon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
     ],
   },
@@ -175,7 +175,7 @@ export const footerBotLinks = [
     links: [
       {
         image: 'facebookIcon',
-        link: '',
+        link: 'https://www.facebook.com/people/Royal-Circle-Millionaires-Club/100089977303654/',
       },
     ],
   },
@@ -188,31 +188,31 @@ export const footerTabTopLinks = [
     links: [      
       {        
         name: "Live casino",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "Slots games",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "Sports book",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "e-sports",       
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "Fishing",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },   
       {        
         name: "download",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },   
       {        
         name: "message",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },    
     ],
   },
@@ -225,31 +225,31 @@ export const footerTabBotLinks = [
     links: [      
       {        
         name: "how to register",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "how to deposit",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "how to witdhraw",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "how to play",       
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },      
       {        
         name: "about us",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },   
       {        
         name: "cookie policy",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },   
       {        
         name: "terms of use",        
-        link: "https://royalcircleclub.com/?referral=maJhannYt",      
+        link: "https://royalcc.vip/r/maJhannYt/reg",      
       },    
     ],
   },
@@ -262,11 +262,11 @@ export const footerTabBotImageLinks = [
     links: [
       {
         image: 'gcashIcon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
       {
         image: 'bankIcon',
-        link: 'https://royalcircleclub.com/?referral=maJhannYt',
+        link: 'https://royalcc.vip/r/maJhannYt/reg',
       },
     ],
   },
@@ -276,7 +276,7 @@ export const footerTabBotImageLinks = [
     links: [
       {
         image: 'facebookIcon',
-        link: '',
+        link: 'https://www.facebook.com/people/Royal-Circle-Millionaires-Club/100089977303654/',
       },
     ],
   },
