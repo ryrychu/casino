@@ -18,7 +18,7 @@ const ChooseSide = () => {
             </div>
             <div className='flex flex-col justify-center items-center gap-y-6'>
               <h6 className='text-2xl font-headingFont text-white'>REGISTER AS <span className='group-hover:text-secondary transition-colors duration-300'>AGENT</span></h6>
-              <a href="https://royalcircleclub.com/?referral=maJhannYt"><button className='border-2 border-secondary/75 rounded-3xl px-10 py-2.5 text-textMain/75 text-sm font-subFont hover:border-secondary hover:text-textMain transition-all duration-300'>Register</button></a>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoNPiXvSbDnMkEcpyGc9K1Y9HFmaUJVLLI2tLBJSBCd0FIvw/viewform?fbclid=IwAR1AU1xuZH1lEWsNLzBTFJinxNbcgIDmx1IHyTmvG7r9DByVB9es5Nn7A3k"><button className='border-2 border-secondary/75 rounded-3xl px-10 py-2.5 text-textMain/75 text-sm font-subFont hover:border-secondary hover:text-textMain transition-all duration-300'>Register</button></a>
             </div>
           </div>
           <div className='group w-full bg-gradient-to-b from-choiceGrad1 to-choiceGrad2 flex items-center justify-evenly gap-x-10 py-4 pr-20 rounded-3xl chooseSides hover:to-choiceGrad3'>
