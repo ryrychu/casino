@@ -28,8 +28,8 @@ module.exports = {
       },
       colors:{
         primary: "#181818",
-        secondary: "#F3B843",
-        tertiary: "#A06D00",
+        secondary: "#f156ae",
+        tertiary: "#802077",
         textMain: "#F2F2F2",
         floatingCont: "#1F1F1F",
         choiceGrad1: "#040405",
@@ -39,6 +39,7 @@ module.exports = {
       backgroundImage:{
         'basketIdle': "url('./src/assets/Web/basketball_idle.png')",
         'basketHover': "url('./src/assets/Web/basketball_hovered.png')",
+        'bgPattern': "url('./src/assets/Web/BGcasino.png')",
       },
     },
   },

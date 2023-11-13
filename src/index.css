@@ -19,6 +19,8 @@
 
 }
 
+
+
 @font-face{
   font-family: "BigNoodle";
   src: url("./fonts/big_noodle_titling.ttf");
@@ -76,13 +78,13 @@ display: none;}
   font-size: 12px;
   color: #000;
   opacity: 0.5;
-  background: #F3B843;
+  background: #f156ae;
   transition: all 0.3s ease-in-out;
 }
 
 .hero_swiper_container .swiper-pagination-bullet-active {
   color: #fff;
-  background: #F3B843;
+  background: #f156ae;
   opacity: 1;
   width: 44px;
   height: 12px;
@@ -143,7 +145,7 @@ display: none;}
 .borderGradient{
     border: 2px solid;
     padding: 10px;
-    border-image-source: linear-gradient(180deg, #F3B843, #A06D00);
+    border-image-source: linear-gradient(180deg, #f156ae, #A06D00);
     border-image-slice: 1;
     border-radius: 20px;
 }

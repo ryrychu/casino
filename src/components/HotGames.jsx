@@ -35,19 +35,19 @@ const HotGames = () => {
           className="hotGames_swiper"
         >
           
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames1}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames2}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames3}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames4}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames5}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames6}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames7}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames8}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames9}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames10}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames11}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames12}/></a></SwiperSlide> 
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames13}/></a></SwiperSlide> 
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames1}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames2}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames3}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames4}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames5}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames6}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames7}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames8}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames9}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames10}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames11}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames12}/></a></SwiperSlide> 
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames13}/></a></SwiperSlide> 
         </Swiper>
         
       </div>
@@ -64,19 +64,19 @@ const HotGames = () => {
           className="hotGames_swiper"
         >
           
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames1}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames2}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames3}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames4}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames5}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames6}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames7}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames8}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames9}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames10}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames11}/></a></SwiperSlide>
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames12}/></a></SwiperSlide> 
-          <SwiperSlide><a href="https://royalcc.vip/r/maJhannYt/reg"><img src={HotGames13}/></a></SwiperSlide> 
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames1}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames2}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames3}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames4}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames5}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames6}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames7}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames8}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames9}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames10}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames11}/></a></SwiperSlide>
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames12}/></a></SwiperSlide> 
+          <SwiperSlide><a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={HotGames13}/></a></SwiperSlide> 
         </Swiper>
         
       </div>

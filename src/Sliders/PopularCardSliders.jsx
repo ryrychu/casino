@@ -20,19 +20,19 @@ const PopularCardSliders = () => {
         className="popularGames_swiper"
       >
         <SwiperSlide>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard1}/></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={PopularGamesHeaderCard1}/></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard2}/></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={PopularGamesHeaderCard2}/></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard3}/></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={PopularGamesHeaderCard3}/></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard4}/></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={PopularGamesHeaderCard4}/></a>
         </SwiperSlide>
         <SwiperSlide>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={PopularGamesHeaderCard5}/></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={PopularGamesHeaderCard5}/></a>
         </SwiperSlide>
         
 

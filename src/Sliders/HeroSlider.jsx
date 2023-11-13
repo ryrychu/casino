@@ -4,7 +4,7 @@ import 'swiper/css';
 import "swiper/css/pagination";
 
 import {Autoplay, Pagination} from 'swiper';
-import { Banner1,Banner2,Banner3,Banner4,Banner5 } from "../assets/Web";
+import { Banner1,Banner2,Banner3,Banner4} from "../assets/Web";
 
 
 const HeroSlider = () => {
@@ -24,19 +24,16 @@ const HeroSlider = () => {
           className="hero_swiper_container px-0 xs:px-16 lg:px-20"
         >
           <SwiperSlide>
-            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner1}/></a>
+            <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={Banner1}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner2}/></a>
+            <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={Banner2}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner3}/></a>
+            <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={Banner3}/></a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner4}/></a>
-          </SwiperSlide>
-          <SwiperSlide>
-            <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={Banner5}/></a>
+            <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={Banner4}/></a>
           </SwiperSlide>
 
           <div className="swiper-pagination"> </div>

@@ -1,16 +1,17 @@
 import React from 'react'
 import styles from './style';
 import { Navbar, Hero, HotGames, Footer, PopularGames, ChooseSide, GameProviders, VideoTutorial, CTA, MessengerChat, LiveCasino, Slots} from "./components";
+import { BGCasino } from './assets/Web';
 
 const App = () => (
-  <div className='bg-primary w-full overflow-hidden'>
+  <div className='bg-center bg-no-repeat bg-cover w-full overflow-hidden' style={{ backgroundImage: `url(${BGCasino})`}}>
   <div className={`${styles.paddingNavX} ${styles.flexCenter} bg-[#1A1A1A]`}>
     <div className={`${styles.boxWidth}`}>
       <Navbar />
     </div>
   </div>
 
-  <div className={`bg-primary ${styles.flexStart}`}>
+  <div className={`${styles.flexStart}`}>
     <div className={`${styles.boxWidth}`}>
       <Hero />
     </div>

@@ -34,23 +34,23 @@ export const footerLinks = [
     links: [      
       {        
         name: "Live casino",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "Slots games",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "Sports book",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "e-sports",       
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "Fishing",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },    
     ],
   },
@@ -60,19 +60,19 @@ export const footerLinks = [
     links: [
       {
         name: "how to register",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
       {
         name: "how to deposit",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
       {
         name: "how to Withdraw",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
       {
         name: "how to play",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
     ],
   },
@@ -82,15 +82,15 @@ export const footerLinks = [
     links: [
       {
         name: "about us",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
       {
         name: "cookie policy",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
       {
         name: "terms of use",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
     ],
   },
@@ -110,7 +110,7 @@ export const footerLinks = [
     links: [
       {
         name: "GAMBLING CAN BE HARMFUL. PLEASE REFER TO OUR RESPONSIBLE GAMING PAGE FOR TIPS ON HELPING YOU STAY IN CONTROL.",
-        link: "https://royalcc.vip/r/maJhannYt/reg",
+        link: "https://playfinooc.vip/r/Maxxwin/reg",
       },
     ],
   },
@@ -123,11 +123,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'gcashIcon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
       {
         image: 'bankIcon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
     ],
   },
@@ -137,7 +137,7 @@ export const footerBotLinks = [
     links: [
       {
         image: 'licenseIcon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
     ],
   },
@@ -147,11 +147,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'mozillaIcon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
       {
         image: 'chromeIcon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
     ],
   },
@@ -161,11 +161,11 @@ export const footerBotLinks = [
     links: [
       {
         image: 'security1Icon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
       {
         image: 'security2Icon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
     ],
   },
@@ -188,31 +188,31 @@ export const footerTabTopLinks = [
     links: [      
       {        
         name: "Live casino",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "Slots games",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "Sports book",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "e-sports",       
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "Fishing",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },   
       {        
         name: "download",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },   
       {        
         name: "message",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },    
     ],
   },
@@ -225,31 +225,31 @@ export const footerTabBotLinks = [
     links: [      
       {        
         name: "how to register",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "how to deposit",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "how to witdhraw",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "how to play",       
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },      
       {        
         name: "about us",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },   
       {        
         name: "cookie policy",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },   
       {        
         name: "terms of use",        
-        link: "https://royalcc.vip/r/maJhannYt/reg",      
+        link: "https://playfinooc.vip/r/Maxxwin/reg",      
       },    
     ],
   },
@@ -262,11 +262,11 @@ export const footerTabBotImageLinks = [
     links: [
       {
         image: 'gcashIcon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
       {
         image: 'bankIcon',
-        link: 'https://royalcc.vip/r/maJhannYt/reg',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
     ],
   },
@@ -276,7 +276,7 @@ export const footerTabBotImageLinks = [
     links: [
       {
         image: 'facebookIcon',
-        link: 'https://www.facebook.com/people/Royal-Circle-Millionaires-Club/100089977303654/',
+        link: 'https://www.facebook.com/playfinooc',
       },
     ],
   },

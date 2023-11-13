@@ -9,10 +9,10 @@ const LiveCasino = () => {
         <div className='hidden lg:block w-16 border-2 border-secondary rounded-lg'></div>
       </div>
       <div className='grid grid-cols-2 grid-rows-2 place-items-stretch gap-4 newCards'>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={LiveCasino1}></img></a>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={LiveCasino2}></img></a>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={LiveCasino3}></img></a>
-        <a href="https://royalcc.vip/r/maJhannYt/reg"><img src={LiveCasino4}></img></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={LiveCasino1}></img></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={LiveCasino2}></img></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={LiveCasino3}></img></a>
+        <a href="https://playfinooc.vip/r/Maxxwin/reg"><img src={LiveCasino4}></img></a>
       </div>
       
     </section>

@@ -13,11 +13,11 @@ const images = {
   }
   const FooterBottomLinks = () => {
     return (
-      <div className='flex-[1.5] w-full hidden flex-row justify-between flex-wrap md:mt-0 mt-10 border-b-2 pb-4 pt-4 border-textMain/10 lg:flex'>
+      <div className='flex-[1.5] w-full hidden flex-row justify-between md:mt-0 mt-10 border-b-2 pb-4 pt-4 border-textMain/10 lg:flex'>
         {footerBotLinks.map((footerBotLink, titleIndex) => (
           <div
             key={footerBotLink.key}
-            className={`flex flex-col ss:my-0 my-4 min-w-[50px] w-32 ${
+            className={`flex flex-col ss:my-0 my-4 min-w-[80px] w-52 ${
               titleIndex === 0 ? 'border-none' : 'border-l-2 pl-4 border-textMain/10'
             }`}
           >

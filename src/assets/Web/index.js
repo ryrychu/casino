@@ -1,9 +1,8 @@
 
-import Banner1 from './Banner/Banner Img (1).png';
-import Banner2 from './Banner/Banner Img (2).png';
-import Banner3 from './Banner/Banner Img (3).png';
-import Banner4 from './Banner/Banner Img (4).png';
-import Banner5 from './Banner/Banner Img (5).png';
+import Banner1 from './Banner/SLIDES1.png';
+import Banner2 from './Banner/SLIDES2.png';
+import Banner3 from './Banner/SLIDES3.png';
+import Banner4 from './Banner/SLIDES4.png';
 import GameProviderHovered1 from './Game Provider/hovered/Game provider -  (1).png';
 import GameProviderHovered2 from './Game Provider/hovered/Game provider -  (2).png';
 import GameProviderHovered3 from './Game Provider/hovered/Game provider -  (3).png';
@@ -59,8 +58,8 @@ import PopularGamesSlots1 from './Popular Games/Slots/idle (1).png';
 import PopularGamesSlots2 from './Popular Games/Slots/idle (2).png';
 import PopularGamesSlots3 from './Popular Games/Slots/idle (3).png';
 import PopularGamesSlots4 from './Popular Games/Slots/idle (4).png'; 
-import spartvid from './spartvid.mp4';
-import play from './play.png';
+import spartvid from './AGENT.mp4';
+import play from './playNew.png';
 import spartansImg from './spartansImg.png';
 import facebookIcon from './icons/fe_facebook.png';
 import chromeIcon from './icons/chromeIcon.png';
@@ -72,13 +71,13 @@ import security2Icon from './icons/security2Icon.png';
 import licenseIcon from './icons/licenseIcon.png';
 import BasketIdle from './basketball_idle.png';
 import testcard from './Popular Games/Card1/test - banner (2).png'
-import logoNavBar from './logo-navbarweb.png';
+import logoNavBar from './PF LOGO.png';
+import BGCasino from './BGcasino.png';
 export {
     Banner1,
     Banner2,
     Banner3,
     Banner4,
-    Banner5,
     GameProviderHovered1,
     GameProviderHovered2,
     GameProviderHovered3,
@@ -148,4 +147,5 @@ export {
     BasketIdle,
     testcard,
     logoNavBar, 
+    BGCasino,
 };

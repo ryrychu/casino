@@ -13,7 +13,7 @@ const Footer = () => {
       <FooterTabBot/>
       <FooterTabBotImage/>
       <div className='flex justify-center pt-10 h-full'>
-        <h4 className='font-semibold bg-clip-text text-transparent bg-gradient-to-b from-secondary/70 to-tertiary/70 '>© 2022 ROYAL CIRCLE CLUB sport&casino all rights reserved for those aged 18+</h4>
+        <h4 className='font-semibold bg-clip-text text-transparent bg-gradient-to-b from-secondary/70 to-tertiary/70 '>© 2023 PLAYFINO SPORT & CASINO all rights reserved for those aged 18+</h4>
       </div>
     </section>
   )
