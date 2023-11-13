@@ -100,7 +100,7 @@ export const footerLinks = [
     links: [
       {
         name: "facebook",
-        link: "https://www.facebook.com/people/Royal-Circle-Millionaires-Club/100089977303654/",
+        link: "https://www.facebook.com/playfinooc",
       },
     ],
   },
@@ -175,7 +175,7 @@ export const footerBotLinks = [
     links: [
       {
         image: 'facebookIcon',
-        link: 'https://www.facebook.com/people/Royal-Circle-Millionaires-Club/100089977303654/',
+        link: 'https://www.facebook.com/playfinooc',
       },
     ],
   },
