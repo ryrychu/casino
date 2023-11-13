@@ -66,6 +66,7 @@ import chromeIcon from './icons/chromeIcon.png';
 import mozillaIcon from './icons/mozillaIcon.png';
 import bankIcon from './icons/bankIcon.png';
 import gcashIcon from './icons/gcashIcon.png';
+import paymayaIcon from './icons/paymaya.jpg';
 import security1Icon from './icons/security1Icon.png';
 import security2Icon from './icons/security2Icon.png';
 import licenseIcon from './icons/licenseIcon.png';
@@ -148,4 +149,5 @@ export {
     testcard,
     logoNavBar, 
     BGCasino,
+    paymayaIcon,
 };

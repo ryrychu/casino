@@ -129,6 +129,10 @@ export const footerBotLinks = [
         image: 'bankIcon',
         link: 'https://playfinooc.vip/r/Maxxwin/reg',
       },
+      {
+        image: 'paymayaIcon',
+        link: 'https://playfinooc.vip/r/Maxxwin/reg',
+      }
     ],
   },
   {

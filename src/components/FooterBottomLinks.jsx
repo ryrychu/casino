@@ -1,6 +1,6 @@
 import React from 'react'
 import { footerBotLinks } from '../constants'
-import { facebookIcon, gcashIcon, mozillaIcon, bankIcon, chromeIcon, security1Icon, security2Icon, licenseIcon } from '../assets/Web'
+import { facebookIcon, gcashIcon, paymayaIcon, mozillaIcon, bankIcon, chromeIcon, security1Icon, security2Icon, licenseIcon } from '../assets/Web'
 const images = {
     'facebookIcon': facebookIcon,
     'gcashIcon': gcashIcon,
@@ -10,6 +10,7 @@ const images = {
     'security1Icon': security1Icon,
     'security2Icon': security2Icon,
     'licenseIcon': licenseIcon,
+    'paymayaIcon': paymayaIcon,
   }
   const FooterBottomLinks = () => {
     return (
