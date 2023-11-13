@@ -58,7 +58,7 @@ import PopularGamesSlots1 from './Popular Games/Slots/idle (1).png';
 import PopularGamesSlots2 from './Popular Games/Slots/idle (2).png';
 import PopularGamesSlots3 from './Popular Games/Slots/idle (3).png';
 import PopularGamesSlots4 from './Popular Games/Slots/idle (4).png'; 
-import spartvid from './AGENT.mp4';
+import spartvid from './AGENT vid.mp4';
 import play from './playNew.png';
 import spartansImg from './spartansImg.png';
 import facebookIcon from './icons/fe_facebook.png';
