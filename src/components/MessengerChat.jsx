@@ -40,7 +40,7 @@ const MessengerChat = () => {
       <div
         className="fb-customerchat"
         attribution="biz_inbox"
-        page_id="109867442018661"
+        page_id="140106562523408"
       ></div>
     </>
   );
