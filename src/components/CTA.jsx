@@ -15,7 +15,7 @@ const CTA = () => {
           <div className='lg:hidden font-subFont text-textMain flex flex-col gap-4'>
             <p>Mag register na saPLAYFINO SPORT&CASINO at maging parte ng patuloy na lumalaki naming team. Sa team Spartans ay hindi masasayang ang effort mo sa binibigay naming incentives, kaya register na!</p>
           </div>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoNPiXvSbDnMkEcpyGc9K1Y9HFmaUJVLLI2tLBJSBCd0FIvw/viewform?fbclid=IwAR1AU1xuZH1lEWsNLzBTFJinxNbcgIDmx1IHyTmvG7r9DByVB9es5Nn7A3k"><button className='rounded-lg bg-gradient-to-b from-secondary to-tertiary py-3 px-9 w-48 font-subFont hover:from-[#FA4EAF] hover:to-[#fc65ed] text-primary text-sm'>Register Now</button></a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoNPiXvSbDnMkEcpyGc9K1Y9HFmaUJVLLI2tLBJSBCd0FIvw/viewform?fbclid=IwAR1AU1xuZH1lEWsNLzBTFJinxNbcgIDmx1IHyTmvG7r9DByVB9es5Nn7A3k"><button className='rounded-lg bg-gradient-to-b from-secondary to-tertiary py-3 px-9 w-48 font-subFont hover:from-[#FA4EAF] hover:to-[#fc65ed] font-medium text-textMain text-sm'>Register Now</button></a>
         </div>
         <div className='h-[400px] hidden lg:flex lg:items-center'>
           <a href='https://www.facebook.com/playfinooc'><img src={spartansImg}></img></a>

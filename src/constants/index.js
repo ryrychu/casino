@@ -27,6 +27,14 @@ export const heroFeatures = [
   },
 ];
 
+export const popupItems = [
+  '3% Cash-in Bonus',
+  '24/7 Live Support',
+  'Automated Cash In/Out',
+  '100 Minimum Cash In',
+  '200 Minimum Cash Out',
+];
+
 export const footerLinks = [  
   {    
     key: 'product-links',    

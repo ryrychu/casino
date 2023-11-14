@@ -169,3 +169,18 @@ video{
 .controls button[data-state="pause"] {
   background-image: url("data:image/png;base64,iVBORw0KGgoAAA…");
 }
+
+.popup-bg{
+  background: rgb(3,0,3);
+  background: linear-gradient(127deg, rgba(3,0,3,1) 0%, rgba(52,4,46,1) 48%, rgba(102,29,92,1) 72%, rgba(125,51,129,1) 92%);
+}
+
+
+.popup-fade-in {
+  opacity: 0;
+  transition: opacity 15s ease-in-out;
+}
+
+.popup-fade-in.show {
+  opacity: 1;
+}

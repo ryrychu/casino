@@ -14,6 +14,7 @@ import LiveCasino from "./LiveCasino";
 import Slots from "./Slots";
 import FooterTabTop from "./FooterTabTop";
 import FooterTabBotImage from "./FooterTabBotImage";
+import Popup from "./Popup";
 export{
     Navbar,
     ChooseSide,
@@ -31,4 +32,5 @@ export{
     Slots,
     FooterTabTop,
     FooterTabBotImage,
+    Popup,
 };
