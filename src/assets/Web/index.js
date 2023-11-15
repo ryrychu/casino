@@ -74,7 +74,7 @@ import BasketIdle from './basketball_idle.png';
 import testcard from './Popular Games/Card1/test - banner (2).png'
 import logoNavBar from './PF LOGO.png';
 import BGCasino from './BGcasino.png';
-import popupLogo from './BIGTIME LOGO.png';
+import popupLogo from './BIGTIME LOGOnew.png';
 import coin from './spin.gif';
 export {
     Banner1,
